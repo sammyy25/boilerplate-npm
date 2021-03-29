@@ -1,6 +1,6 @@
 {
-	"name": "Mudathir Tijani",
-	"author": "Mudathir Tijani",
+	"name": "fcc-learn-npm-package-json",
+	"author": "Mudathi Tijani",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
